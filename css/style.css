@@ -99,6 +99,6 @@ button[type="submit"]:hover{
 }
 
 button[type="reset"]:hover{
-    background-color: rgb(255, 122, 65);
+    background-color: rgb(218, 102, 52);
     color: rgb(255, 255, 255);
 }
