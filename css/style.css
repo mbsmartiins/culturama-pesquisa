@@ -28,10 +28,16 @@ h1 {
     font-family: "Fjalla One", sans-serif;
 }
 
+p {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
 form {
     background-color: white;
     padding: 15px;
-    border-radius: 10px
+    border-radius: 10px;
+    margin-bottom: 100px;
 }
 
 fieldset {
