@@ -13,10 +13,9 @@ Este projeto faz parte da minha prática de front-end, com foco em **estrutura s
 
 1. Baixe o repositório:
    ```bash
-   git clone https://github.com/seuusuario/formulario-opiniao.git
+   git clone https://github.com/seuusuario/formulario-opiniao.gi
 
-OU
-
+                           OU
 2. Acessando pelo link abaixo:
    ```
    https://mbsmartiins.github.io/culturama-pesquisa/
