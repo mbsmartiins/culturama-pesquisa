@@ -59,6 +59,15 @@ label {
 
 }
 
+input[type="tel"]{
+    margin-bottom: 0;
+}
+
+small {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
 input, select, textarea {
     width: 100%;
     padding: 10px;
