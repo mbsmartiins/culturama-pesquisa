@@ -35,11 +35,12 @@
             <input type="email" name="userEmail" id="email" required>
             <br>
             <label for="phoneNumber">Telefone</label>
-            <input type="tel" name="userPhoneNumber" id="phoneNumber" pattern="[0-9]{11}" placeholder="DDD + número sem modificação." aria-describedby="phone-help">
-            <small id="phone-help">Preencha com 11 digítos no formato: DDD + número sem espaço ou hífen.</small>
+            <input type="tel" name="userPhoneNumber" id="phoneNumber" pattern="[0-9]{11}" placeholder="DDD + número sem modificação." aria-describedby="phoneHelp">
+            <small id="phoneHelp">Preencha com 11 digítos no formato: DDD + número sem espaço ou hífen.</small>
             <br>
             <label for="image">Upload de foto</label>
-            <input type="file" accept="image/*" name="userImage" id="image">
+            <input type="file" accept="image/*" name="userImage" id="image" aria-describedby="imageHelp">
+            <small id="imageHelp">Envie uma foto no formato PNG ou JPEG.</small>
             <br>
             </fieldset> 
     
